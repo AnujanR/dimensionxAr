@@ -223,7 +223,7 @@ class _ItemsUploadScreenState extends State<ItemsUploadScreen> {
               child: const Text(
                 "Capture Object with Camera",
                 style: TextStyle(
-                  color: Colors.black,
+                  color: Colors.black45,
                 ),
               ),
             ),
